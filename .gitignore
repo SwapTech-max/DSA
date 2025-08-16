@@ -1,0 +1,16 @@
+# Executable files
+*.exe
+*.out
+
+# Output files
+output.txt
+
+# Input files (optional - remove if you want to include input.txt)
+input.txt
+
+# VS Code settings (optional - remove if you want to include .vscode folder)
+.vscode/
+
+# Temporary files
+*.tmp
+*.temp
